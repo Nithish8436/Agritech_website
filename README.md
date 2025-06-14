@@ -7,7 +7,7 @@ Farmer-Hub is a full-stack web application designed to support farmers with a po
 
 ## 🧱 Tech Stack
 
-- **Frontend**: React, Vite, TypeScript, Tailwind CSS, ShadCN/UI
+- **Frontend**: React, Vite, JavaScript, TypeScript, Tailwind CSS, ShadCN/UI
 - **Backend**: FastAPI, Uvicorn
 - **Other**: Python virtual environment, dotenv for environment config, multipart/form-data support
 
